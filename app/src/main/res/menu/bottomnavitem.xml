@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/it_firstitem"
+        android:icon="@drawable/firstitem"
+        android:title="First Page"
+        />
+    <item
+        android:id="@+id/it_seconditem"
+        android:icon="@drawable/ic_baseline_add_reaction_24"
+        android:title="Second Page"
+        />
+    <item
+        android:id="@+id/it_thirditem"
+        android:icon="@drawable/seconditem"
+        android:title="Third Page"
+        />
+
+</menu>
